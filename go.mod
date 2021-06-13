@@ -1,4 +1,4 @@
-module chardet
+module github.com/want-fly/chardet
 
 go 1.13
 
